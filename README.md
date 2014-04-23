@@ -4,7 +4,7 @@
 * 男
 * 1984.11.26
 * 江苏盐城人
-* 我的博客: http:/www.streamis.me
+* 我的博客: http://www.streamis.me
 * github: https://github.com/stream1984
 
 # 联系方式
